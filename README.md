@@ -4,4 +4,6 @@ Largest Lip-reading dataset in Bengali Language. It contains lipreading image da
 
 Google Drive Link : https://drive.google.com/drive/folders/1CgOg35Cfs3H6-vHmG11LDt0qlS6q--jt?usp=sharing
 
-Huggingface link : https://huggingface.co/datasets/tanjilaronno2024/LipBengal/tree/main
+Huggingface link (640 x 480) : https://huggingface.co/datasets/tanjilaronno2024/LipBengal/tree/main
+
+Figshare : https://figshare.com/articles/dataset/LipBengal_Dataset/26008285?file=46992286
