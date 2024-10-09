@@ -10,5 +10,5 @@ Figshare : https://figshare.com/articles/dataset/LipBengal_Dataset/26008285?file
 
 Preprocessing and annotation codes for generating Lip-Bengal dataset from raw videos is 
 
-Folder structure ![alt text](http://url/to/DataStructure.PNG)
+Folder structure![Alt text](relative%20path/to/DataStructure.PNG?raw=true "Title")
 
