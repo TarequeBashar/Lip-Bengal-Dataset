@@ -12,5 +12,5 @@ Preprocessing and annotation codes for generating Lip-Bengal dataset from raw vi
 For preprocessing and annotation go to [Preprocessing Code](finalDatasetCode.ipynb)
 
 
-[Folder Structure](DataStructure.PNG?raw=False "Folder Structure")
+[Folder Structure](DataStructure.PNG)
 
