@@ -27,6 +27,7 @@ When using TensorFlow’s string-splitting functions, certain phonemes with **di
 - In contrast, in the word **'দাড়ি'** (hari), the same phoneme **remains fixed** during splitting.
 
 These cases are illustrated in the following figure for clarity.
-[](class.png)
 
 
+
+![class](https://github.com/user-attachments/assets/027c24b5-9f91-471a-aa14-0d2e04953672)
