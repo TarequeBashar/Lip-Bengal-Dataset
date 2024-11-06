@@ -14,7 +14,7 @@ For preprocessing and annotation go to [Preprocessing Code](finalDatasetCode.ipy
 
 [Folder Structure](DataStructure.PNG)
 
-##PLEASE NOTE
+## PLEASE NOTE
 ## Usage Guidelines
 
 To replicate the exact classes and results as presented in our original paper, **researchers are advised to use the `tensorflow.strings.unicode_split` function**. This function ensures a consistent split of phonemes, especially when handling complex Bengali characters with diacritical marks or under-dots.
@@ -27,5 +27,6 @@ When using TensorFlow’s string-splitting functions, certain phonemes with **di
 - In contrast, in the word **'দাড়ি'** (hari), the same phoneme **remains fixed** during splitting.
 
 These cases are illustrated in the following figure for clarity.
+(class.png)
 
 
