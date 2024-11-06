@@ -24,7 +24,7 @@ To replicate the exact classes and results as presented in our original paper, *
 When using TensorFlow’s string-splitting functions, certain phonemes with **diacritical marks or under-dot modifications** (such as **ড়, র, ঢ়, য়**) may result in **variable class separations**. For example:
 
 - In the word **'বাড়ি'** (bari), the phoneme **‘ড়’** may be split into distinct units.
-- In contrast, in the word **'দাড়ি'** (hari), the same phoneme **remains fixed** during splitting.
+- In contrast, in the word **'দাড়ি'** (Dari), the same phoneme **remains fixed** during splitting.
 
 These cases are illustrated in the following figure for clarity.
 
