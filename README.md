@@ -10,7 +10,7 @@ Figshare : https://figshare.com/articles/dataset/LipBengal_Dataset/26008285?file
 
 
 - For preprocessing and annotation go to [Preprocessing Code](finalDatasetCode.ipynb)
-- For training **LipNet** go to [LipNet](lipnet.ipynb)
+- For training **LipNet** go to [LipNet](lipNet.ipynb)
 
 [Folder Structure](DataStructure.PNG)
 
