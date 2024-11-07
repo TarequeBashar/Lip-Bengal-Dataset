@@ -8,9 +8,9 @@ Huggingface link (640 x 480) : https://huggingface.co/datasets/tanjilaronno2024/
 
 Figshare : https://figshare.com/articles/dataset/LipBengal_Dataset/26008285?file=46992286
 
-Preprocessing and annotation codes for generating Lip-Bengal dataset from raw videos is 
-For preprocessing and annotation go to [Preprocessing Code](finalDatasetCode.ipynb)
 
+- For preprocessing and annotation go to [Preprocessing Code](finalDatasetCode.ipynb)
+- For training **LipNet** go to [LipNet](lipnet.ipynb)
 
 [Folder Structure](DataStructure.PNG)
 
